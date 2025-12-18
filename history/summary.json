@@ -4,17 +4,19 @@
     "url": "https://lmqoflcikfcxoeyinjus.supabase.co/rest/v1/website_themes?limit=1&apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxtcW9mbGNpa2ZjeG9leWluanVzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjUyMzAyOTQsImV4cCI6MjA4MDgwNjI5NH0.eiKT9S_HHtNUO0yXHHDE-rfL8BhZXj5p90mT4FKdpWo",
     "icon": "https://icons.duckduckgo.com/ip3/lmqoflcikfcxoeyinjus.supabase.co.ico",
     "slug": "toke-bakes-supabase-db",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 723,
-    "timeDay": 723,
-    "timeWeek": 723,
-    "timeMonth": 723,
-    "timeYear": 723,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "77.68%",
+    "uptimeDay": "77.68%",
+    "uptimeWeek": "77.68%",
+    "uptimeMonth": "77.68%",
+    "uptimeYear": "77.68%",
+    "time": 699,
+    "timeDay": 699,
+    "timeWeek": 699,
+    "timeMonth": 699,
+    "timeYear": 699,
+    "dailyMinutesDown": {
+      "2025-12-18": 115
+    }
   }
 ]
