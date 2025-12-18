@@ -1,17 +1,15 @@
-# Upptime configuration
+name: "Toke Bakes Status"
 owner: ayanokoji-kirotaka
 repo: toke-bakes-db-monitor
+
 sites:
-  - name: Toke Bakes Supabase DB
+  - name: "Toke Bakes Supabase DB"
     url: https://lmqoflcikfcxoeyinjus.supabase.co/rest/v1/website_themes?limit=1&apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxtcW9mbGNpa2ZjeG9leWluanVzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjUyMzAyOTQsImV4cCI6MjA4MDgwNjI5NH0.eiKT9S_HHtNUO0yXHHDE-rfL8BhZXj5p90mT4FKdpWo
-    maxRedirects: 0
-    expectedStatusCodes:
-      - 200
+
 status-website:
-  baseUrl: ""
-  name: "Toke Bakes Status"
-  introTitle: "Toke Bakes Bakery Database Status"
-  introMessage: "Monitoring Supabase database for automatic pings"
+  name: "Toke Bakes Bakery Status"
+  introTitle: "🎂 Toke Bakes Database Monitor"
+  introMessage: "Live monitoring of our Supabase database to prevent auto-pausing"
   navbar:
     - title: Status
       href: /
