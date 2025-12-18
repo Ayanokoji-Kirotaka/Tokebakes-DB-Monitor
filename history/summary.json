@@ -4,17 +4,17 @@
     "url": "https://lmqoflcikfcxoeyinjus.supabase.co/rest/v1/website_themes?limit=1&apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxtcW9mbGNpa2ZjeG9leWluanVzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjUyMzAyOTQsImV4cCI6MjA4MDgwNjI5NH0.eiKT9S_HHtNUO0yXHHDE-rfL8BhZXj5p90mT4FKdpWo",
     "icon": "https://icons.duckduckgo.com/ip3/lmqoflcikfcxoeyinjus.supabase.co.ico",
     "slug": "toke-bakes-supabase-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 704,
-    "timeWeek": 704,
-    "timeMonth": 704,
-    "timeYear": 704,
+    "time": 723,
+    "timeDay": 723,
+    "timeWeek": 723,
+    "timeMonth": 723,
+    "timeYear": 723,
     "dailyMinutesDown": {}
   }
 ]
