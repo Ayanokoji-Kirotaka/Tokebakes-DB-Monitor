@@ -1,6 +1,6 @@
 # Upptime configuration
-owner: ayanokoji-kirotaka # ← Replace with YOUR GitHub username
-repo: toke-bakes-db-monitor # ← Your repo name
+owner: ayanokoji-kirotaka
+repo: toke-bakes-db-monitor
 sites:
   - name: Toke Bakes Supabase DB
     url: https://lmqoflcikfcxoeyinjus.supabase.co/rest/v1/website_themes?limit=1&apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxtcW9mbGNpa2ZjeG9leWluanVzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjUyMzAyOTQsImV4cCI6MjA4MDgwNjI5NH0.eiKT9S_HHtNUO0yXHHDE-rfL8BhZXj5p90mT4FKdpWo
@@ -8,10 +8,8 @@ sites:
     expectedStatusCodes:
       - 200
 status-website:
-  cname: false
-  baseUrl: /toke-bakes-db-monitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Toke Bakes Status
+  baseUrl: ""
+  name: "Toke Bakes Status"
   introTitle: "Toke Bakes Bakery Database Status"
   introMessage: "Monitoring Supabase database for automatic pings"
   navbar:
