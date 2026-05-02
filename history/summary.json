@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lmqoflcikfcxoeyinjus.supabase.co.ico",
     "slug": "toke-bakes-supabase-db",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.75%",
+    "uptimeDay": "74.92%",
+    "uptimeWeek": "96.42%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.75%",
     "time": 826,
-    "timeDay": 1260,
-    "timeWeek": 1039,
-    "timeMonth": 987,
+    "timeDay": 0,
+    "timeWeek": 1015,
+    "timeMonth": 988,
     "timeYear": 826,
     "dailyMinutesDown": {
+      "2026-05-02": 112,
+      "2026-05-01": 249,
       "2025-12-18": 115
     }
   }
